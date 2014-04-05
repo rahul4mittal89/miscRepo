@@ -9,6 +9,4 @@ SELECT TOP 100 * FROM askiiti_askiitians.tbl_forums_expertviews WHERE (DATALENGT
 SELECT TOP 100 * FROM askiiti_askiitians.tbl_forums_subcat WHERE (DATALENGTH(askquestion)<100)
 
 
-
-
-
+ 
